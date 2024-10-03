@@ -1,0 +1,329 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/socv-2425-4/Desktop/Part1/REGFILE/sim
+T_opt
+Z1 !s11d rf_tb_sv_unit /home/socv-2425-4/Desktop/Part1/REGFILE/sim/work 1 rf_if 1 /home/socv-2425-4/Desktop/Part1/REGFILE/sim/work 
+!s110 1717356744
+VboaDP?3JN=Pcl9EhOIDHI3
+Z2 04 5 4 work rf_tb fast 0
+=1-000ae431a4f1-665cc8c7-90c2d-7e08
+Z3 o-quiet -auto_acc_if_foreign -work work
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2020.4;71
+R0
+T_opt1
+R1
+!s110 1716549058
+VCed9d7iK75Ee?n3N[gXk?2
+R2
+=1-000ae431a4f1-665075c1-aa9e9-1340
+R3
+R4
+n@_opt1
+R5
+R0
+T_opt2
+!s11d rf_tb_sv_unit /home/socv-2425-4/Desktop/Part1/REG/sim/work 1 rf_if 1 /home/socv-2425-4/Desktop/Part1/REG/sim/work 
+!s110 1717925211
+VD:<M;HEY9kmb[7D`9^`EX3
+R2
+=1-000ae431a4f1-6665755b-86d7c-4c23
+R3
+R4
+n@_opt2
+R5
+Ccfg_fd_pippo
+eFD
+aPIPPO
+DAx4 work 2 fd 5 pippo 22 LjBz7S8@JH3D^1K8OSPNh1
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z8 DEx4 work 2 fd 0 22 8oMTl3F;@h@j[PH0@WJoW2
+!i122 25
+Z9 w1716060964
+Z10 d/home/socv-2425-4/Desktop/Part1/REG/sim
+Z11 8../src/fd.vhd
+Z12 F../src/fd.vhd
+l0
+L44 1
+VfS09AoY]TjBzQWJ7Sk`hi3
+!s100 ILaMdNiCeAn^GdZ^nC0[C1
+Z13 OL;C;2020.4;71
+32
+Z14 !s110 1717924055
+!i10b 0
+Z15 !s108 1717924055.000000
+Z16 !s90 -F|compile_vhd.f|-mixedsvvh|
+Z17 !s107 ../src/REG.vhd|../src/fd.vhd|
+!i113 0
+Z18 o-mixedsvvh
+Z19 tExplicit 1 CvgOpt 0
+Ccfg_fd_pluto
+eFD
+aPLUTO
+DAx4 work 2 fd 5 pluto 22 k1j[n]mmFEZ?HAo]KRO^]0
+R6
+R7
+R8
+!i122 25
+R9
+R10
+R11
+R12
+l0
+L50 1
+V:dlzUh`BU3[Fa5g79mS401
+!s100 <e6XkBm65:?3OXb:G]NDl3
+R13
+32
+R14
+!i10b 0
+R15
+R16
+R17
+!i113 0
+R18
+R19
+Ccfg_reg_sync
+eREG
+aSTRUCT
+R8
+DCx4 work 12 cfg_fd_pippo 0 22 fS09AoY]TjBzQWJ7Sk`hi3
+DAx4 work 3 reg 6 struct 22 ZF:2XTOIM>e@`dJYk0EX10
+R6
+R7
+Z20 DEx4 work 3 reg 0 22 7WSf;`W9XDM0DB<J^lPOG2
+!i122 25
+Z21 w1716546581
+R10
+Z22 8../src/REG.vhd
+Z23 F../src/REG.vhd
+l0
+L31 1
+ViV8HLVRd8=m:d]NWboo??1
+!s100 [YJhLbEMMj?_>kbeQ<DjU0
+R13
+32
+R14
+!i10b 0
+R15
+R16
+R17
+!i113 0
+R18
+R19
+Efd
+R9
+R6
+R7
+!i122 25
+R10
+R11
+R12
+l0
+L4 1
+V8oMTl3F;@h@j[PH0@WJoW2
+!s100 5Ah>[R?SSFVYK=4UZmM>N2
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 0
+R18
+R19
+Apluto
+R6
+R7
+R8
+!i122 25
+l30
+L28 14
+Vk1j[n]mmFEZ?HAo]KRO^]0
+!s100 fN:l>1]L_ADJ?`iCUMkJ73
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 0
+R18
+R19
+Apippo
+R6
+R7
+R8
+!i122 25
+l14
+L12 15
+VLjBz7S8@JH3D^1K8OSPNh1
+!s100 Y5;?^[hjk3VmofmhKb>^82
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 0
+R18
+R19
+Ereg
+R21
+R6
+R7
+!i122 25
+R10
+R22
+R23
+l0
+L4 1
+V7WSf;`W9XDM0DB<J^lPOG2
+!s100 ^9NUdIdW2;;_:NVU]GAK>1
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 0
+R18
+R19
+Astruct
+R6
+R7
+R20
+!i122 25
+l21
+L11 17
+VZF:2XTOIM>e@`dJYk0EX10
+!s100 H]Y6H3oldcfhlAnDQ1F=i1
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 0
+R18
+R19
+Yrf_if
+Z24 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z25 !s110 1717925207
+!i10b 1
+!s100 ^mC4YdER@UA9MfNb<R^jc0
+Z26 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IchT]=kz8DzbT1Zg9Z1kch3
+S1
+R10
+w1716549411
+8../tb/rf_if.sv
+F../tb/rf_if.sv
+!i122 30
+L0 4 0
+Z27 VDg1SIo80bB@j0V0VzS_@n1
+Z28 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z29 !s108 1717925207.000000
+Z30 !s107 ../tb/rf_cov.svh|../tb/rf_tester.svh|../tb/rf_wrap.sv|../tb/rf_tb.sv|../tb/rf_if.sv|
+Z31 !s90 -F|compile_sv.f|
+!i113 0
+Z32 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vrf_tb
+R24
+DXx4 work 13 rf_tb_sv_unit 0 22 n1P9ZWS6YnJDh=SeMQ=411
+R25
+R27
+r1
+!s85 0
+!i10b 1
+!s100 U3dc1627;DUg2Hm@J`>hU1
+I>8m]BR4dAh?Jhn5zdde8I3
+!s105 rf_tb_sv_unit
+S1
+R10
+Z33 w1717925199
+Z34 8../tb/rf_tb.sv
+Z35 F../tb/rf_tb.sv
+!i122 30
+L0 7 29
+R28
+31
+R29
+R30
+R31
+!i113 0
+R32
+R4
+Xrf_tb_sv_unit
+!s115 rf_if
+R24
+R25
+Vn1P9ZWS6YnJDh=SeMQ=411
+r1
+!s85 0
+!i10b 1
+!s100 _bJBLL9=n`A:]P>U`HYbc3
+In1P9ZWS6YnJDh=SeMQ=411
+!i103 1
+S1
+R10
+R33
+R34
+R35
+F../tb/rf_tester.svh
+F../tb/rf_cov.svh
+!i122 30
+L0 7 0
+R28
+31
+R29
+R30
+R31
+!i113 0
+R32
+R4
+vrf_wrap
+R24
+R25
+!i10b 1
+!s100 nRYD`>[MV9<4WGA9>@mbT2
+R26
+ICec4SO7B93A]gdIF`n6jP0
+S1
+R10
+w1716546876
+8../tb/rf_wrap.sv
+F../tb/rf_wrap.sv
+!i122 30
+L0 3 9
+R27
+R28
+r1
+!s85 0
+31
+R29
+R30
+R31
+!i113 0
+R32
+R4
